@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-<img align="right" alt="PixelArt" src="PixelArt.gif">
+<img align="left" width="340px" alt="PixelArt" src="PixelArt.gif">
 
 I'm Karen, a software engineer who loves to learn and grow every day. Welcome to my GitHub profile! Here, I share my projects and contributions. As a software engineer, I'm passionate about improving my skills and trying out new technologies to create cool stuff. Right now, I'm focused on getting even better at what I do and learning new things. Feel free to check out my repositories, and don't hesitate to get in touch!
 
