@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="DevNight.webp" width="100%" height="auto">
+</p>
+
+Image by [Seaeees](https://seaeees.tumblr.com/).
+
 # Hello there! 👋
 
 <img align="left" width="340px" alt="PixelArt" src="PixelArt.gif">
